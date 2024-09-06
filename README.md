@@ -1,0 +1,1 @@
+g++ -o my_program.exe src/main.cpp -Iinclude -Llibs -lfltk -lfltk_gl -lopengl32 -lgdi32 -lole32 -luuid -luser32 -lcomctl32 -lshell32 -lcpr -lcurl -lzlib
